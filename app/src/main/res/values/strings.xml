@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">test_firebase</string>
+    <string name="phone_number">PHONE_NUMBER</string>
+</resources>
